@@ -1,0 +1,13 @@
+# Ignore Nextflow logs and work directories
+.nextflow*
+work/
+
+# Ignore text editor backup files
+*~
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.pyc
